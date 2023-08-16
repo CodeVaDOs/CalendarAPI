@@ -1,0 +1,12 @@
+.cell {
+    width: 100%;
+    text-align: center;
+    outline: 1px solid black;
+    transition: .2s;
+    overflow: auto;
+}
+
+.cell:hover {
+    background: #e6e6e6;
+    transition: .2s;
+}
